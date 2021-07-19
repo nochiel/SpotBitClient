@@ -60,7 +60,7 @@ This table below also establishes provenance (repository of origin, permalink, a
 To build  `SpotbitClient` you'll need to use the following tools:
 
 - [Dart](http://dart.dev)
-- Flutter(http://flutter.dev)
+- [Flutter](http://flutter.dev)
 - [Android SDK]()
 - [Xcode]()
 
